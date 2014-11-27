@@ -1,0 +1,22 @@
+{
+  "name": "timelinedemo-mb-gl",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "leaflet": "~0.7.3",
+    "d3": "https://github.com/mbostock/d3.git#~3.4.13",
+    "mapbox-gl-leaflet": "https://github.com/mapbox/mapbox-gl-leaflet.git"
+  },
+  "version": "0.0.0",
+  "authors": [
+    "bmwyss@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
